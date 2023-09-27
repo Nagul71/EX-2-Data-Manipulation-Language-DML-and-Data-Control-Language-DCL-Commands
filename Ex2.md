@@ -40,8 +40,8 @@ insert into manager values(7788,'Vikash',4000,0,48000,'12-Aug-82','clerk',50,'Bo
 ![image](https://github.com/DhanushPalani/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121594640/b32bceb5-9f0f-4c30-b27f-c4375e677f46)
 
 ### OUTPUT:
+![Screenshot 2023-09-27 083144](https://github.com/Nagul71/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118661118/db8ff768-f851-4ee1-98d4-b25fc97b52c2)
 
-![image](https://github.com/DhanushPalani/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/121594640/3fd9b83b-a6e7-4e47-b0cb-f2815bbbae95)
 
 ### Q2) Delete the records from manager table where the salary less than 2750.
 
